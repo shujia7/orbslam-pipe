@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/**",
+                "/usr/include/eigen3",
+                "${workspaceFolder}/Thirdparty/g2o/**",
+                "/opt/ros/melodic/include/**",
+                "/home/lc/Thirdparty/Pangolin-0.6/include/**",
+                "/home/lc/Thirdparty/Pangolin-0.6/include/pangolin/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
